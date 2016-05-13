@@ -1,0 +1,57 @@
+.igima-image-to-element #drop-box
+{
+    height: 160px;
+    padding: 20px;
+    text-align: center;
+    color: #CCC;
+}
+.igima-image-to-element .highlighted span
+{
+    background-color: #f5f5f5;
+}
+.igima-image-to-element #drop-box span
+{
+    display: block;
+    border: dashed 3px #CCC;
+    font-size: 18px;
+    height: 100%;
+    color: #CCC;
+    padding: 10px;
+}
+.igima-image-to-element #img-list
+{
+    margin: 20px 0 0 20px;
+    padding: 0;
+    width: 90%;
+    display: none;
+}
+.igima-image-to-element #img-list th, #img-list td
+{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.igima-image-to-element #img-list span
+{
+    padding-left: 20px;
+}
+.igima-image-to-element #img-list img
+{
+    vertical-align: middle;
+}
+.igima-image-to-element #img-list input
+{
+    width: 180px;
+}
+.igima-image-to-element #img-list .progress
+{
+    width: 90px;
+    border: solid 1px #CCC;
+    padding: 5px 10px;
+    background-color: #cccfff;
+    border-radius: 4px;
+    white-space: nowrap;
+}
+.igima-image-to-element #file-field
+{
+    padding-left: 20px;
+}

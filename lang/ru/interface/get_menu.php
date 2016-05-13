@@ -1,0 +1,10 @@
+<?
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_BUT_NAME"] = "Загрузить";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_BUT_NAME_CLOSE"] = "Закрыть";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_TITLE"] = "Создать элемент на основе файла с изображением";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_HEAD"] = "Выберите или перетащите файл с изображением";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_DROP_BOX"] = "Перетащите сюда файл с изображением";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_TH_IMAGE"] = "Изображение";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_TH_NAME"] = "Название элемента";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_TH_STAT"] = "Статус";
+$MESS["IGIMAIMAGETOELEMENT_GET_MENU_TH_DEL"] = "Удалить";

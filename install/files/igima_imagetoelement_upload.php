@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/igima.imagetoelement/admin/igima_imagetoelement_upload.php");
